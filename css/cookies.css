@@ -120,6 +120,9 @@ body {
   color: rgb(64, 61, 248);
 }
 @media (max-width: 800px) {
+  .cont_cookies h1 {
+    font-size: 30px;
+  }
   .nav__menu {
     display: block;
   }
