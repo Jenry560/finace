@@ -4,7 +4,7 @@ const fondoAvisoCookies = document.getElementById("fondo-aviso-cookies");
 
 dataLayer = [];
 
-if (!localStorage.getItem("cookies-aceptadas")) {
+if (!localStorage.getItem("cookies_aceptadas")) {
   avisoCookies.classList.add("activo");
   fondoAvisoCookies.classList.add("activo");
 } else {
