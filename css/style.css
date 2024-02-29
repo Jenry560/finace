@@ -326,7 +326,7 @@ body {
 }
 @media (max-width: 550px) {
   .foot {
-    height: 360px;
+    height: 370px;
   }
 
   .form__input {
